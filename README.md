@@ -105,7 +105,7 @@ jupyter notebook eda.ipynb
 
 ### Run Training Pipeline
 ```
-python main.py
+jypyter notebook main.ipynb
 ```
 
 ## 4. Exploratory Data Analysis
