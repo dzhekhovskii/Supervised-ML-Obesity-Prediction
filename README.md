@@ -256,12 +256,12 @@ SHAP aligns with feature importance.
 ```
 project/
 │
+├── ObesityDataSet.csv
+├── ObesutyDataSet_preprocessed.csv
 ├── README.md
-├── main.py
 ├── eda.ipynb
+├── main.ipynb
 ├── requirements.txt
-└── data/
-    └── obesity.csv
 ```
 
 ## 14. Conclusion
